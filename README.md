@@ -27,7 +27,9 @@
 
 ## 🚴 구성도
 ![image](https://github.com/pnucse-capstone/capstone-2023-1-49/assets/100823955/5ce1ce97-8a2b-4421-a66c-5173358a1f5c)
-
+1. 사용자(정상, 스패머)가 메일을 작성하여 다른 사용자(희생자)에게 전송한다.
+2. 메일(텍스트, 이미지, 혼합 등)이 Multi-Modal 기반 스팸 필터링 모델에 의해 필터링.
+3. 실시간으로 웹에서 필터링 결과를 출력한다.
 ## 📹 소개 및 시연 영상
 ↓ 아래 썸네일 클릭.\
 [![시연영상 유튜브 링크](http://img.youtube.com/vi/G_m9r8yo7nI/0.jpg)](https://youtu.be/G_m9r8yo7nI)
