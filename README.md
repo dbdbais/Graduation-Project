@@ -31,8 +31,10 @@
 2. 메일(텍스트, 이미지, 혼합 등)이 Multi-Modal 기반 스팸 필터링 모델에 의해 필터링.
 3. 실시간으로 웹에서 필터링 결과를 출력한다.
 ## 📹 소개 및 시연 영상
-↓ 아래 썸네일 클릭.\
-[![시연영상 유튜브 링크](http://img.youtube.com/vi/G_m9r8yo7nI/0.jpg)](https://youtu.be/G_m9r8yo7nI)
+↓ 시연 영상 아래 썸네일 클릭.\
+[![시연영상 유튜브 링크](http://img.youtube.com/vi/G_m9r8yo7nI/0.jpg)](https://youtu.be/G_m9r8yo7nI)\
+↓ 소개 영상 아래 썸네일 클릭.\
+[![소개영상 유튜브 링크](http://img.youtube.com/vi/WAdoG42BU9s/0.jpg)](https://youtu.be/WAdoG42BU9s)
 ## 📄 사용법
 ### ⚙️ 개발 환경
 - `window 10`
