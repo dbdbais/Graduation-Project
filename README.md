@@ -1,8 +1,5 @@
 # 🎉2023년 전기 졸업과제 49조
------------
-## Github classroom
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/fnZ3vxy8)
---------
+
 ## 💻 프로젝트 소개
 - 프로젝트 명
   - 멀티모달을 활용한 텍스트 기반 스팸필터링 플랫폼 개발
